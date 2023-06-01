@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter-digit {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px solid gray;
+    margin: 5px;
+    text-align: center;
+    line-height: 30px;
+}
